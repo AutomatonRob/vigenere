@@ -1,0 +1,4 @@
+
+LETTER_FREQUENCIES_GERMAN = {
+    ""
+}
